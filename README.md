@@ -2,9 +2,11 @@
 
 This is an Arduino library to work with Arduino Manager app available for iOS and macOS.
 
- * Supported Boards: Any board
- * Devide: nRF8001
+ * Supported Boards: Any board with nRF8001 breakout board (https://www.adafruit.com/product/1697)
  * Protocol: Bluetooth Low Energy
+
+
+**Note:** nRF8001 breakout board has been dismissed
 
 ## Arduino Manager
 
